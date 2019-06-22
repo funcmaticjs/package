@@ -1,0 +1,10 @@
+{
+  "name": "my-test-function",
+  "version": "0.0.1",
+  "description": "only for testing @funcmaticjs/package.",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
