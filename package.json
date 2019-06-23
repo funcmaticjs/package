@@ -1,6 +1,6 @@
 {
   "name": "@funcmaticjs/package",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple utility that create an AWS Lambda zip file using your project's package.json file. Assumes 'npm' and 'zip' commands are available in PATH.",
   "main": "index.js",
   "scripts": {
