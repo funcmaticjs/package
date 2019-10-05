@@ -1,3 +1,6 @@
+# @funcmaticjs/package
+dist
+
 # Logs
 logs
 *.log
